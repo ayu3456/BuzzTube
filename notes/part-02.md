@@ -9,6 +9,7 @@ when u type very fast it just skips some of the events.
 this increase your performance. 
 
 Performance:
+
 -iphone pro max = 14 letter , suppose millions of customers are using this . this will drastically improves the performance of the webpage. 
 
 iphone pro max = 14 letter * 1000 
@@ -28,6 +29,20 @@ destroy the component
 re-render the component 
 useEffect()
 start timer => make api call after 200ms 
+
+# Let us use the power of caching and to use this we will be using Redux. 
+it will store the search result in my redux store. 
+
+suppose ip it has search for ip 
+it will not search for ip.  
+
+# now we are going to comment section.
+
+in yt it is only two level deep . we are going to comment section which is n level deep. 
+like in reddit. 
+
+
+
 
 
 
